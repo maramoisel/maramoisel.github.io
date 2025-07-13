@@ -13,7 +13,7 @@ I worked on this shot from start to finish, minus the phone constraint and some 
 <video loop lazy autoplay>
   <source src="/videos/fleak_02.mp4" type="video/mp4">
 </video>
-  
+
 Another quite challenging shot due to Morphy (the orange character) rolling around vigorously. I was given a file with rough keyframes but had to redo them a lot to be able to use the rigs’ features better, and in the end it most likely saved a lot of time and tears. Morphy’s rolling was indeed a challenge, requiring a lot of frame to frame animation, but in the end I was again quite happy with it. I received no improvement ideas or negative feedback on this shot from Anima’s side, which was a personal win for me, as some parts of the animation gave me a hard time.
 
 <video loop lazy autoplay>
