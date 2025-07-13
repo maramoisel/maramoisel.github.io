@@ -24,6 +24,7 @@
   "src/components/IconArrowBack.vue": [],
   "src/components/IconArrowRight.vue": [],
   "src/components/IconClose.vue": [],
+  "src/components/IconDiamond.vue": [],
   "src/components/IconEmail.vue": [],
   "src/components/IconMenu.vue": [],
   "src/components/IconPause.vue": [],
